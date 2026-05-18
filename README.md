@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**VENKATASUBBARAO13/VENKATASUBBARAO13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **VENKATA SUBBARAO**, an aspiring **Python Developer** from India.
 
-Here are some ideas to get you started:
+I’m currently learning and building projects with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python
+- 🗄️ MySQL
+- 🐧 Linux
+- ☁️ AWS
+- 📊 Data Analysis
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **AWS, Linux, MySQL, and Python**
+- 🧠 I believe in learning by building projects
+- 🗄️ Completed **MySQL 30 Days Challenge**
+- 🐍 Completed **Python 30 Days Challenge**
+- 🎯 Goal: Become a skilled **Cloud Engineer**
+- 📌 Sharing my learning journey through GitHub and LinkedIn
+
+---
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+
+---
+
+## 📌 Projects
+
+- 🗄️ **MySQL 30 Days Student Management System**
+- 🐍 **Python 30 Days Challenge**
+- ☁️ **AWS Learning Projects** *(Coming Soon)*
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ventrapragada-venkata-subbarao/
+- GitHub: [VENKATASUBBARAO13](https://github.com/VENKATASUBBARAO13)
+
+---
+
+⭐ **Learning every day. Building step by step.**
