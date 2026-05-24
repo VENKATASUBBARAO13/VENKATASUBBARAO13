@@ -36,7 +36,7 @@ I’m currently learning and building projects with:
 ## 📌 Projects
 
 - 🗄️ **MySQL 30 Days Student Management System**
-- 🐍 **Python 30 Days Challenge**
+- 🐍 **django-currency-converter**
 - ☁️ **AWS Learning Projects** *(Coming Soon)*
 
 ---
