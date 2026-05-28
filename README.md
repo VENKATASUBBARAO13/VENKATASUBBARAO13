@@ -7,7 +7,6 @@ I’m currently learning and building projects with:
 - 🐍 Python
 - 🗄️ MySQL
 - 🐧 Linux
-- ☁️ AWS
 - 📊 Data Analysis
 
 ---
