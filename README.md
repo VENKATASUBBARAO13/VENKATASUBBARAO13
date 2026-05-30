@@ -34,7 +34,7 @@ I’m currently learning and building projects with:
 
 ## 📌 Projects
 
-- 🗄️ **MySQL 30 Days Student Management System**
+- 🗄️ **Student-Information-Management-System**
 - 🐍 **django-currency-converter**
 - ☁️ **AWS Learning Projects** *(Coming Soon)*
 
