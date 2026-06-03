@@ -36,7 +36,7 @@ I’m currently learning and building projects with:
 
 - 🗄️ **Student-Information-Management-System**
 - 🐍 **django-currency-converter**
-- ☁️ **AWS Learning Projects** *(Coming Soon)*
+- 🤖 **DeepFake Detection**
 
 ---
 
