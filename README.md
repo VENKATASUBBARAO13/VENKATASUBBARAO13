@@ -1,6 +1,28 @@
-# 💫 About Me:
-# Hey there! 👋<br><br>I'm **VENKATA SUBBARAO**, an aspiring **Python Developer** from India.<br><br>I’m currently learning and building projects with:<br><br>- 🐍 Python<br>- 🗄️ MySQL<br>- 🐧 Linux<br>- 📊 Data Analysis<br><br>---<br><br>## 🚀 About Me<br><br>- 🌱 Currently learning **AWS, Linux, MySQL, and Python**<br>- 🧠 I believe in learning by building projects<br>- 🗄️ Completed **MySQL 30 Days Challenge**<br>- 🐍 Completed **Python 30 Days Challenge**<br>- 🎯 Goal: Become a skilled **Cloud Engineer**<br>- 📌 Sharing my learning journey through GitHub and LinkedIn<br><br>---<br><br>##  📌 Projects<br><br>- 🗄️ **Student-Information-Management-System**<br>- 🐍 **django-currency-converter**<br>- 🤖 **DeepFake-Detection-System**<br><br>---<br><br>## 📫 Connect With Me<br><br>- LinkedIn: https://www.linkedin.com/in/ventrapragada-venkata-subbarao/<br>- GitHub: [VENKATASUBBARAO13](https://github.com/VENKATASUBBARAO13)<br><br>---<br><br>⭐ **Learning every day. Building step by step.**<br>
+# Hey there! 👋
 
+I'm **VENKATA SUBBARAO**, an aspiring **Python Developer** from India.
+
+I’m currently learning and building projects with:
+
+- 🐍 Python
+- 🗄️ MySQL
+- 🐧 Linux
+- 📊 Data Analysis
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **AWS, Linux, MySQL, and Python**
+- 🧠 I believe in learning by building projects
+- 🗄️ Completed **MySQL 30 Days Challenge**
+- 🐍 Completed **Python 30 Days Challenge**
+- 🎯 Goal: Become a skilled **Cloud Engineer**
+- 📌 Sharing my learning journey through GitHub and LinkedIn
+
+---
+
+## 🛠️ Skills
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ventrapragada-venkata-subbarao/) 
@@ -19,3 +41,22 @@
 [![](https://komarev.com/ghpvc/?username=VENKATASUBBARAO13&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+## 📌 Projects
+
+- 🗄️ **Student-Information-Management-System**
+- 🐍 **django-currency-converter**
+- 🤖 **DeepFake-Detection-System**
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ventrapragada-venkata-subbarao/
+- GitHub: [VENKATASUBBARAO13](https://github.com/VENKATASUBBARAO13)
+
+---
+
+⭐ **Learning every day. Building step by step.**
