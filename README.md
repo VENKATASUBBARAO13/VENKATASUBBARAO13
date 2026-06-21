@@ -6,9 +6,9 @@ I’m currently learning and building projects with:
 
 - 🐍 Python
 - 🗄️ MySQL
-- 🐧 Linux
 - 📊 Data Analysis
 - 🌐 React
+- 🐧 Linux
 
 ---
 
