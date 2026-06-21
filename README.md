@@ -45,8 +45,8 @@ I’m currently learning and building projects with:
 
 ## 📌 Projects
 
-- 🗄️ **Student-Information-Management-System**
 - 🤖 **DeepFake-Detection-System**
+- 🗄️ **Student-Information-Management-System**
 - 🐍 **django-currency-converter**
 
 
