@@ -8,7 +8,6 @@ I’m currently learning and building projects with:
 - 🗄️ MySQL
 - 📊 Data Analysis
 - 🌐 React
-- 🐧 Linux
 
 ---
 
