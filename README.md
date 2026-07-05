@@ -103,18 +103,6 @@ Modern responsive portfolio built using Next.js, TypeScript, Tailwind CSS and Fr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VENKATASUBBARAO13&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKATASUBBARAO13&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
