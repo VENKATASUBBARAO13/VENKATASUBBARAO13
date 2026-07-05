@@ -1,61 +1,178 @@
-# Hey there! 👋
+<h1 align="center">Hi 👋, I'm Venkata Subbarao</h1>
 
-I'm **VENKATA SUBBARAO**, an aspiring **Python Developer** from India.
+<h3 align="center">
+Python Developer • Full Stack Developer • AI & Cloud Computing Enthusiast
+</h3>
 
-I’m currently learning and building projects with:
+<p align="center">
+Passionate about building scalable web applications, backend systems, AI-powered solutions, and continuously learning modern cloud technologies.
+</p>
 
-- 🐍 Python
-- 🗄️ MySQL
-- 📊 Data Analysis
-- 🌐 React
+<p align="center">
+<a href="https://venkata-subbarao-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/ventrapragada-venkata-subbarao">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:venkatasubbarao1305@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **AWS, Linux, MySQL, and Python**
-- 🧠 I believe in learning by building projects
-- 🗄️ Completed **MySQL 30 Days Challenge**
-- 🐍 Completed **Python 30 Days Challenge**
-- 🎯 Goal: Become a skilled **Cloud Engineer**
-- 📌 Sharing my learning journey through GitHub and LinkedIn
+- 🎓 Computer Science Graduate (2026)
+- 💼 Open to Full-Time Software Engineer opportunities
+- 💻 Interested in Backend Development, Full Stack Development, AI and Cloud Computing
+- 🌱 Currently learning AWS, System Design and Advanced Backend Development
+- ⚡ I enjoy building production-ready software that solves real-world problems.
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ventrapragada-venkata-subbarao/)
+## 🌐 Portfolio
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=VENKATASUBBARAO13&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=VENKATASUBBARAO13&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VENKATASUBBARAO13&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 🔗 Live Website
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=VENKATASUBBARAO13&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**https://venkata-subbarao-portfolio.vercel.app**
 
 ---
 
-## 📌 Projects
+## 🛠 Tech Stack
 
-- 🤖 **DeepFake-Detection-System**
-- 🗄️ **Student-Information-Management-System**
-- 🐍 **django-currency-converter**
+### Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,bootstrap,react,nextjs" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+### Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 DeepFake Detection System
+
+AI-powered DeepFake Detection web application using Django, PyTorch, OpenCV and ResNet18.
+
+### 🎓 Student Information Management System
+
+Full Stack Student Information Management System built using Python, Flask and MySQL.
+
+### 💱 Currency Converter
+
+Real-time Currency Converter using Django and REST APIs.
+
+### 🌐 Personal Portfolio
+
+Modern responsive portfolio built using Next.js, TypeScript, Tailwind CSS and Framer Motion.
+
+👉 **Portfolio:** https://venkata-subbarao-portfolio.vercel.app
+
+---
+
+## 📜 Certifications
+
+- Microsoft Azure Fundamentals
+- Google Cloud AI
+- TCS iON Career Edge – Young Professional
+- GeeksforGeeks Python Programming
+- Tata Data Visualisation (Forage)
+- Tata GenAI Data Analytics (Forage)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VENKATASUBBARAO13&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKATASUBBARAO13&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=VENKATASUBBARAO13&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VENKATASUBBARAO13&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKATASUBBARAO13&theme=tokyo-night"/>
+
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/ventrapragada-venkata-subbarao/
-- GitHub: [VENKATASUBBARAO13](https://github.com/VENKATASUBBARAO13)
+📧 **Email**
+
+venkatasubbarao1305@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/ventrapragada-venkata-subbarao
+
+🌐 **Portfolio**
+
+https://venkata-subbarao-portfolio.vercel.app
+
+🐙 **GitHub**
+
+https://github.com/VENKATASUBBARAO13
 
 ---
 
-⭐ **Learning every day. Building step by step.**
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=VENKATASUBBARAO13&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
