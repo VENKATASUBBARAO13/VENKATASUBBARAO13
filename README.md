@@ -113,16 +113,6 @@ Modern responsive portfolio built using Next.js, TypeScript, Tailwind CSS and Fr
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VENKATASUBBARAO13&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
