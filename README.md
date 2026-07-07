@@ -24,45 +24,46 @@ Passionate about building scalable web applications, backend systems, AI-powered
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Computer Science Graduate (2026)
 - 💼 Open to Full-Time Software Engineer opportunities
 - 💻 Interested in Backend Development, Full Stack Development, AI and Cloud Computing
 - 🌱 Currently learning AWS, System Design and Advanced Backend Development
-- ⚡ I enjoy building production-ready software that solves real-world problems.
+- ⚡ Passionate about building production-ready software that solves real-world problems.
+- 🚀 Always learning, building, and improving.
 
 ---
 
-## 🌐 Portfolio
+# 🌐 Portfolio
 
 ### 🔗 Live Website
 
-**https://venkata-subbarao-portfolio.vercel.app**
+👉 **https://venkata-subbarao-portfolio.vercel.app**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
-</p>
-
-### Frameworks
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,bootstrap,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,mysql" />
 </p>
 
-### Tools
+### ⚙️ Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### Learning
+### ☁️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+</p>
+
+### 📚 Currently Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
@@ -70,29 +71,53 @@ Passionate about building scalable web applications, backend systems, AI-powered
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 DeepFake Detection System
+## 🤖 DeepFake Detection System
 
-AI-powered DeepFake Detection web application using Django, PyTorch, OpenCV and ResNet18.
+AI-powered DeepFake Detection System built using:
 
-### 🎓 Student Information Management System
-
-Full Stack Student Information Management System built using Python, Flask and MySQL.
-
-### 💱 Currency Converter
-
-Real-time Currency Converter using Django and REST APIs.
-
-### 🌐 Personal Portfolio
-
-Modern responsive portfolio built using Next.js, TypeScript, Tailwind CSS and Framer Motion.
-
-👉 **Portfolio:** https://venkata-subbarao-portfolio.vercel.app
+- Django
+- PyTorch
+- OpenCV
+- ResNet18
+- MySQL
 
 ---
 
-## 📜 Certifications
+## 🎓 Student Information Management System
+
+A Full Stack Student Information Management System developed using:
+
+- Python
+- Flask
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 💱 Currency Converter
+
+Real-time Currency Converter built using Django and REST APIs.
+
+---
+
+## 🌐 Personal Portfolio
+
+Modern responsive portfolio built using:
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+🔗 **Portfolio:** https://venkata-subbarao-portfolio.vercel.app
+
+---
+
+# 📜 Certifications
 
 - Microsoft Azure Fundamentals
 - Google Cloud AI
@@ -103,41 +128,43 @@ Modern responsive portfolio built using Next.js, TypeScript, Tailwind CSS and Fr
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=VENKATASUBBARAO13&theme=tokyonight&hide_border=true&v=2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VENKATASUBBARAO13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKATASUBBARAO13&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Activity Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKATASUBBARAO13&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKATASUBBARAO13&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-📧 **Email**
+### 📧 Email
 
-venkatasubbarao1305@gmail.com
+**venkatasubbarao1305@gmail.com**
 
-💼 **LinkedIn**
+### 💼 LinkedIn
 
 https://www.linkedin.com/in/ventrapragada-venkata-subbarao
 
-🌐 **Portfolio**
+### 🌐 Portfolio
 
 https://venkata-subbarao-portfolio.vercel.app
 
-🐙 **GitHub**
+### 🐙 GitHub
 
 https://github.com/VENKATASUBBARAO13
 
@@ -152,5 +179,7 @@ https://github.com/VENKATASUBBARAO13
 ---
 
 <h3 align="center">
+
 ⭐ Thanks for visiting my profile! ⭐
+
 </h3>
