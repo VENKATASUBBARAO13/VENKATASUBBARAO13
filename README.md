@@ -5,68 +5,86 @@ Python Developer • Full Stack Developer • AI & Cloud Computing Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, backend systems, AI-powered solutions, and continuously learning modern cloud technologies.
+Building scalable backend systems, AI-powered applications and modern web experiences.
 </p>
 
 <p align="center">
+
 <a href="https://venkata-subbarao-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_Portfolio-Live_Website-2563EB?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/ventrapragada-venkata-subbarao">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:venkatasubbarao1305@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-- 🎓 Computer Science Graduate (2026)
-- 💼 Open to Full-Time Software Engineer opportunities
-- 💻 Interested in Backend Development, Full Stack Development, AI and Cloud Computing
-- 🌱 Currently learning AWS, System Design and Advanced Backend Development
-- ⚡ Passionate about building production-ready software that solves real-world problems.
-- 🚀 Always learning, building, and improving.
+🎓 Computer Science Graduate (2026)
+
+💼 Open to Software Engineer / Backend Developer / Full Stack Developer roles
+
+💻 Passionate about Python, Django, REST APIs, AI and Cloud Computing
+
+🌱 Currently learning
+
+- AWS
+- System Design
+- Docker
+- Advanced Backend Development
+
+⚡ I enjoy solving real-world problems through software and continuously improving my development skills.
 
 ---
 
 # 🌐 Portfolio
 
-### 🔗 Live Website
+### 🔗 Live Portfolio
 
-👉 **https://venkata-subbarao-portfolio.vercel.app**
+**https://venkata-subbarao-portfolio.vercel.app**
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,mysql" />
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,mysql"/>
+
 </p>
 
-### ⚙️ Frameworks
+### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,tailwind,bootstrap" />
+
+<img src="https://skillicons.dev/icons?i=django,flask,nextjs,react,bootstrap"/>
+
 </p>
 
-### ☁️ Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+
 </p>
 
-### 📚 Currently Learning
+### Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux"/>
+
 </p>
 
 ---
@@ -87,33 +105,46 @@ AI-powered DeepFake Detection System built using:
 
 ## 🎓 Student Information Management System
 
-A Full Stack Student Information Management System developed using:
+A complete student management portal featuring:
 
-- Python
+- Authentication
+- Attendance
+- Marks
+- Student Dashboard
+- Admin Dashboard
+
+Built with:
+
 - Flask
+- Python
 - MySQL
+
+---
+
+## 💱 Currency Converter
+
+Real-time currency conversion using REST APIs.
+
+Built with:
+
+- Django
+- REST API
 - HTML
 - CSS
 - JavaScript
 
 ---
 
-## 💱 Currency Converter
-
-Real-time Currency Converter built using Django and REST APIs.
-
----
-
 ## 🌐 Personal Portfolio
 
-Modern responsive portfolio built using:
+Modern responsive developer portfolio built with
 
 - Next.js
 - TypeScript
 - Tailwind CSS
 - Framer Motion
 
-🔗 **Portfolio:** https://venkata-subbarao-portfolio.vercel.app
+🔗 https://venkata-subbarao-portfolio.vercel.app
 
 ---
 
@@ -128,13 +159,11 @@ Modern responsive portfolio built using:
 
 ---
 
-# 📊 GitHub Statistics
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VENKATASUBBARAO13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKATASUBBARAO13&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=VENKATASUBBARAO13&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -150,21 +179,27 @@ Modern responsive portfolio built using:
 
 ---
 
+# 🏆 GitHub Profile Trophy
+
+> Currently unavailable because the public API service is paused.
+
+---
+
 # 📫 Connect With Me
 
-### 📧 Email
+📧 Email
 
 **venkatasubbarao1305@gmail.com**
 
-### 💼 LinkedIn
+💼 LinkedIn
 
 https://www.linkedin.com/in/ventrapragada-venkata-subbarao
 
-### 🌐 Portfolio
+🌐 Portfolio
 
 https://venkata-subbarao-portfolio.vercel.app
 
-### 🐙 GitHub
+🐙 GitHub
 
 https://github.com/VENKATASUBBARAO13
 
@@ -172,7 +207,7 @@ https://github.com/VENKATASUBBARAO13
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=VENKATASUBBARAO13&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=VENKATASUBBARAO13&label=Profile+Views&color=2563EB&style=for-the-badge"/>
 
 </p>
 
@@ -180,6 +215,6 @@ https://github.com/VENKATASUBBARAO13
 
 <h3 align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my GitHub Profile! ⭐
 
 </h3>
