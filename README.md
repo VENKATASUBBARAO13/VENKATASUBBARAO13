@@ -107,7 +107,7 @@ Modern responsive portfolio built using Next.js, TypeScript, Tailwind CSS and Fr
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=VENKATASUBBARAO13&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=VENKATASUBBARAO13&theme=tokyonight&hide_border=true&v=2"/>
 
 </p>
 
