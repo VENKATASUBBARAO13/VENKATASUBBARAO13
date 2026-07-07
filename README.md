@@ -159,16 +159,6 @@ Modern responsive developer portfolio built with
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=VENKATASUBBARAO13&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Activity
 
 <p align="center">
@@ -176,12 +166,6 @@ Modern responsive developer portfolio built with
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKATASUBBARAO13&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-# 🏆 GitHub Profile Trophy
-
-> Currently unavailable because the public API service is paused.
 
 ---
 
