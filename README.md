@@ -5,7 +5,7 @@ Python Developer • Full Stack Developer • AI & Cloud Computing Enthusiast
 </h3>
 
 <p align="center">
-Building scalable backend systems, AI-powered applications and modern web experiences.
+Building scalable backend and frontend systems, AI-powered applications and modern web experiences.
 </p>
 
 <p align="center">
