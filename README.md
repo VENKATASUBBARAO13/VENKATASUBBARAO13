@@ -137,22 +137,7 @@ Hands-on project exploring AWS monitoring and infrastructure observability.
 
 ---
 
-### 🌐 3. AWS VPC & Load Balancer Architecture
-
-Built a custom AWS networking environment using public and private subnets across multiple Availability Zones.
-
-**Technologies:** VPC, EC2, ALB, Target Groups, NAT Gateway, IGW
-
-- Created a custom VPC with public and private subnets.
-- Configured Internet Gateway, NAT Gateway, and route tables.
-- Launched a Bastion Host and private EC2 instances.
-- Installed and configured Nginx on EC2.
-- Connected application instances through an Application Load Balancer.
-- Practiced path-based routing, host-based routing, sticky sessions, and weighted target groups.
-
----
-
-### 🤖 4. DeepFake Detection System
+### 🤖 3. DeepFake Detection System
 
 AI-powered web application developed as my final-year project.
 
@@ -167,7 +152,7 @@ AI-powered web application developed as my final-year project.
 
 ---
 
-### 🎓 5. Student Information Management System
+### 🎓 4. Student Information Management System
 
 A student management portal built using Flask and MySQL.
 
