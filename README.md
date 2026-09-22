@@ -201,14 +201,6 @@ A student management portal built using Flask and MySQL.
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKATASUBBARAO13&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p>
