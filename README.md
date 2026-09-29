@@ -201,7 +201,7 @@ A hands-on AWS monitoring project focused on collecting Linux server metrics, vi
 
 ### GitHub Repository
 
-🔗 https://github.com/VENKATASUBBARAO13/aws-ec2-monitoring-prometheus-grafana
+🔗 https://github.com/VENKATASUBBARAO13/AWS-EC2-Monitoring-and-Alerting-Project
 
 ---
 
