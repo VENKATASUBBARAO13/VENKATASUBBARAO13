@@ -6,7 +6,8 @@
 
 <p align="center">
   Building and deploying AWS infrastructure, cloud applications, networking architectures,
-  monitoring solutions, and secure scalable environments through hands-on projects.
+  monitoring solutions, automation workflows, and secure scalable environments through
+  hands-on projects.
 </p>
 
 <p align="center">
@@ -25,22 +26,27 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Graduate | Class of 2026
+🎓 Computer Science Engineering Graduate | Class of 2026
 
-☁️ Aspiring AWS Cloud Engineer focused on cloud infrastructure, networking, monitoring, security, and scalable application deployment.
+☁️ Aspiring AWS Cloud Engineer focused on cloud infrastructure, networking, monitoring, security, automation, and scalable application deployment.
 
-🔭 Building hands-on AWS and DevOps projects to strengthen real-world cloud engineering skills.
+🔭 Built and deployed multiple hands-on AWS projects covering application hosting, three-tier architecture, infrastructure monitoring, alerting, log automation, and cloud networking.
 
 🌱 Currently strengthening my knowledge in:
 
 - AWS Cloud Architecture
 - Linux & Networking
-- Docker & DevOps
 - Infrastructure Monitoring & Observability
 - Cloud Security & IAM
 - Automation & Event-Driven Services
+- DevOps Fundamentals
+- Docker
 
-💡 Interested in AWS Cloud Engineer, Cloud Support Engineer, and DevOps Engineer opportunities.
+💡 Interested in:
+
+- AWS Cloud Engineer
+- Cloud Support Engineer
+- Junior DevOps Engineer
 
 ⚡ I enjoy learning by building real-world projects, troubleshooting infrastructure, and understanding how cloud technologies work together.
 
@@ -69,14 +75,14 @@
 - Amazon EventBridge
 - NAT Gateway
 - Internet Gateway
-- AMI
+- AMIs
 
 ### Networking & Infrastructure
 
 - VPC Design
 - CIDR & Subnetting
-- Multi-AZ Architecture
 - Public & Private Subnets
+- Multi-AZ Architecture
 - Route Tables
 - Internet Gateway
 - NAT Gateway
@@ -91,19 +97,32 @@
 - Sticky Sessions
 - Cross-AZ Load Balancing
 - Auto Scaling
-- DNS Routing with Route 53
+- Route 53 DNS
 
 ### Monitoring & Observability
 
 - Amazon CloudWatch
 - CloudWatch Metrics
+- CloudWatch Logs
 - CloudWatch Alarms
 - Prometheus
 - Grafana
 - Node Exporter
 - Infrastructure Monitoring
-- Alerting & Incident Testing
+- Alerting
+- PagerDuty
+- Incident Testing
 - Metrics Visualization
+
+### Automation & Serverless
+
+- AWS Lambda
+- Amazon EventBridge
+- Boto3
+- CloudWatch Logs
+- S3 Log Archival
+- Event-Driven Automation
+- Serverless Automation
 
 ### Programming & Development
 
@@ -114,19 +133,19 @@
 - Python
 - SQL & MySQL
 - Linux
-- Bash / Shell Scripting Fundamentals
+- Bash / Shell Scripting
 - REST APIs
+- Flask
+- Django
 
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,django,flask" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 - Git & GitHub
 - Docker
-- Django
-- Flask
 - VS Code
 - AWS Management Console
 
@@ -136,68 +155,87 @@
 
 ## 🛒 1. AWS E-Commerce Application Deployment
 
-A hands-on AWS deployment project focused on hosting, networking, security, monitoring, and automation for a multi-service e-commerce application.
+A hands-on AWS deployment project focused on hosting, networking, security, HTTPS, load balancing, database connectivity, and production-style application deployment.
 
 ### AWS Technologies
 
-`EC2` `VPC` `ALB` `Auto Scaling` `S3` `IAM` `Route 53` `ACM`
+`EC2` `VPC` `RDS` `ALB` `S3` `IAM` `Route 53` `ACM`
 
-`AWS WAF` `AMI` `CloudWatch` `Lambda` `EventBridge`
+`AWS WAF` `CloudWatch` `Lambda` `EventBridge` `Security Groups`
 
 ### Key Work
 
 - Deployed an e-commerce application on AWS infrastructure.
 - Configured EC2 instances for application hosting.
-- Designed VPC networking with public and private subnets.
-- Configured an Application Load Balancer for application traffic.
-- Configured Route 53 for domain-based access.
+- Designed AWS networking using VPC and subnets.
+- Configured Application Load Balancer and Target Groups.
+- Connected the application to Amazon RDS MySQL.
+- Configured Route 53 for custom domain access.
 - Enabled HTTPS using AWS Certificate Manager.
 - Configured AWS WAF for web application protection.
-- Worked with AMIs for EC2 configuration and recovery.
+- Configured IAM roles and permissions.
 - Used Amazon S3 for cloud storage.
-- Configured IAM roles, policies, and permissions.
 - Used CloudWatch for infrastructure monitoring.
-- Explored Lambda and EventBridge for event-driven automation.
+- Worked with Lambda and EventBridge for automation.
 - Troubleshot application, networking, and infrastructure issues.
 
 ### GitHub Repository
 
-🔗 https://github.com/CloudTechDevOps/aws-ecomerce-Application-Multiple-services
+🔗 https://github.com/VENKATASUBBARAO13/AWS_PROJECT_FLIPKART_APPLICATION_WITH_RDS
 
 ---
 
-## 📊 2. AWS EC2 Monitoring & Observability
+## 📊 2. AWS EC2 Monitoring & Alerting Project
 
-A hands-on AWS monitoring project focused on collecting Linux server metrics, visualizing infrastructure health, testing alerts, and validating recovery.
+A hands-on infrastructure monitoring project using Prometheus, Grafana, Node Exporter, CloudWatch, Alertmanager, and PagerDuty.
 
 ### Technologies
 
-`AWS EC2` `Prometheus` `Grafana` `Node Exporter` `CloudWatch` `PagerDuty`
+`AWS EC2` `Prometheus` `Grafana` `Node Exporter`
+
+`CloudWatch` `Alertmanager` `PagerDuty`
 
 ### Architecture
 
-- One private EC2 server running Node Exporter.
-- Another private EC2 server running Prometheus and Grafana.
-- Prometheus configured to scrape metrics from Node Exporter.
-- Grafana connected to Prometheus for infrastructure visualization.
-- CloudWatch configured as an additional Grafana data source.
-- Prometheus alert rules configured for infrastructure conditions.
-- PagerDuty integrated for alert and incident handling.
+```text
+                         AWS Cloud / VPC
+
+ ┌─────────────────────┐          ┌──────────────────────────────┐
+ │    Monitored EC2    │          │       Monitoring EC2         │
+ │                     │          │                              │
+ │ Linux Server        │          │ Prometheus :9090             │
+ │       │             │          │      │                       │
+ │ Node Exporter :9100 │─────────▶│      ├── Alert Rules         │
+ │                     │ /metrics  │      │        │              │
+ └─────────────────────┘          │      ▼        ▼              │
+                                  │ Alertmanager  Grafana :3000  │
+                                  │      │        │      │       │
+                                  └──────┼────────┼──────┼───────┘
+                                         │        │      │
+                                         ▼        │      ▼
+                                     PagerDuty    │  CloudWatch
+                                                  │
+                                                  ▼
+                                            AWS Metrics
+```
 
 ### Key Work
 
-- Installed and configured Node Exporter on the monitored EC2 server.
-- Configured Prometheus scraping for the Node Exporter target.
-- Verified Prometheus targets and target health.
-- Created Grafana dashboards for system metrics.
+- Installed and configured Node Exporter.
+- Configured Prometheus scraping.
+- Monitored Linux EC2 infrastructure.
+- Created Prometheus alert rules.
+- Configured `InstanceDown` alert.
+- Configured high CPU and high disk alerts.
+- Built Grafana monitoring dashboards.
 - Added Prometheus as a Grafana data source.
-- Added AWS CloudWatch as an additional Grafana data source.
-- Tested CPU, memory, disk, and infrastructure metrics.
-- Stopped Node Exporter to simulate an infrastructure failure.
-- Verified the `InstanceDown` alert in Prometheus.
-- Triggered and resolved a PagerDuty incident.
-- Restarted the monitoring service and verified recovery.
-- Practiced troubleshooting monitoring and alerting workflows.
+- Added CloudWatch as an additional data source.
+- Tested infrastructure metrics.
+- Simulated infrastructure failure by stopping Node Exporter.
+- Verified target health changes in Prometheus.
+- Triggered PagerDuty incidents.
+- Verified alert resolution and recovery.
+- Practiced monitoring troubleshooting and incident handling.
 
 ### GitHub Repository
 
@@ -205,138 +243,176 @@ A hands-on AWS monitoring project focused on collecting Linux server metrics, vi
 
 ---
 
-## 🏗️ 3. AWS Three-Tier Web Application
+## 🏗️ 3. AWS Three-Tier Web Application Deployment
 
-Designed and deployed a three-tier cloud architecture using AWS networking, compute, database, load balancing, and scaling services.
+A hands-on three-tier AWS architecture demonstrating separation of the presentation, application, and database layers.
 
 ### Architecture
 
-**Web / Load Balancing Layer**
-- Application Load Balancer
-- Public subnets
-- Route 53
-
-**Application Layer**
-- EC2 instances
-- Private subnets
-- Auto Scaling Group
-- Security Groups
-
-**Database Layer**
-- Amazon RDS
-- Private subnet architecture
+```text
+                         Users
+                           │
+                           ▼
+                   Route 53 / Domain
+                           │
+                           ▼
+              Application Load Balancer
+                           │
+              ┌────────────┴────────────┐
+              │                         │
+              ▼                         ▼
+       Frontend EC2                Backend EC2
+       Presentation               Application
+       Layer                      Layer
+                                      │
+                                      ▼
+                               Amazon RDS MySQL
+                                  Data Layer
+```
 
 ### AWS Technologies
 
-`VPC` `EC2` `RDS` `ALB` `Auto Scaling` `IAM` `Route 53` `Security Groups`
+`VPC` `EC2` `RDS` `ALB` `Auto Scaling`
+
+`Route 53` `IAM` `Security Groups` `NAT Gateway`
 
 ### Key Work
 
-- Designed a custom VPC architecture.
-- Created public and private subnets across Availability Zones.
-- Configured Internet Gateway and route tables.
-- Deployed application servers in private subnets.
-- Configured Application Load Balancer and Target Groups.
-- Configured health checks.
-- Implemented Auto Scaling.
-- Configured RDS for database management.
-- Applied security groups to control communication between layers.
-- Practiced high-availability cloud architecture.
+- Designed a three-tier AWS architecture.
+- Created VPC networking and subnet architecture.
+- Configured public and private subnets.
+- Deployed frontend and backend components on EC2.
+- Configured Application Load Balancers.
+- Configured Target Groups and health checks.
+- Connected backend application to Amazon RDS MySQL.
+- Configured Route 53 custom domain access.
+- Applied Security Groups between application layers.
+- Practiced scalable and highly available architecture concepts.
+- Tested application CRUD operations.
+- Validated frontend, backend, ALB, and RDS connectivity.
 
-### Project Details
+### GitHub Repository
 
-🔗 https://www.linkedin.com/posts/ventrapragada-venkata-subbarao_aws-cloudcomputing-amazonec2-activity-7505116879276011520-mYwA
+🔗 https://github.com/VENKATASUBBARAO13/AWS-Three-Tier-Web-Application-Project
 
 ---
 
-## 🤖 4. DeepFake Detection System
+## 📦 4. AWS EC2 Log Automation & S3 Archival Project
 
-AI-powered web application developed as my final-year project.
+A serverless AWS log automation project that collects EC2 logs through CloudWatch and automates log processing and archival using Lambda, EventBridge, and Amazon S3.
 
-### Technologies
+### Architecture
 
-`Python` `Django` `PyTorch` `ResNet18` `OpenCV` `MySQL`
+```text
+Amazon EC2
+    │
+    ▼
+CloudWatch Agent
+    │
+    ▼
+CloudWatch Logs
+    │
+    ▼
+AWS Lambda
+    ▲
+    │
+EventBridge
+    │
+    ▼
+Amazon S3
+    │
+    ▼
+Log Archive
+```
+
+### AWS Technologies
+
+`EC2` `CloudWatch` `CloudWatch Logs` `Lambda`
+
+`EventBridge` `S3` `IAM` `Python` `Boto3`
 
 ### Key Work
 
-- Developed an image-based DeepFake detection web application.
-- Implemented ResNet18 transfer learning.
-- Used OpenCV for face detection.
-- Integrated MySQL for application data and logging.
-- Built the application using Django.
+- Created an EC2-based log collection workflow.
+- Installed and configured the CloudWatch Agent.
+- Collected EC2 log files into CloudWatch Logs.
+- Created CloudWatch Log Groups and Log Streams.
+- Configured IAM permissions for AWS services.
+- Created an S3 bucket for centralized log archival.
+- Configured S3 bucket policies.
+- Used Lambda for serverless log automation.
+- Configured EventBridge for scheduled automation.
+- Tested log processing and S3 archival.
+- Verified uploaded and downloaded log files.
+- Practiced event-driven cloud automation.
 
-### GitHub
+### GitHub Repository
 
-🔗 https://github.com/VENKATASUBBARAO13/DeepFake-Detection-System
-
----
-
-## 🎓 5. Student Information Management System
-
-A web-based student management application developed using Flask and MySQL.
-
-### Technologies
-
-`Python` `Flask` `MySQL` `HTML` `CSS`
-
-### Key Work
-
-- Developed authentication functionality.
-- Implemented student management.
-- Added attendance and marks management.
-- Created student and administrator dashboards.
-- Connected the application to MySQL.
-
-### GitHub
-
-🔗 https://github.com/VENKATASUBBARAO13/Student-Information-Management-System
+🔗 https://github.com/VENKATASUBBARAO13/AWS-EC2-Log-Automation-and-S3-Archival-Project
 
 ---
 
-## 🧰 DevOps & Cloud Learning
+# 🧰 DevOps & Cloud Hands-On Experience
 
-### Hands-On AWS Topics
+### AWS Infrastructure
 
 - EC2 provisioning and configuration
 - VPC and subnet design
 - Public and private networking
-- Internet Gateway and NAT Gateway
-- Route tables and routing
+- CIDR and subnetting
+- Internet Gateway
+- NAT Gateway
+- Route Tables
 - Security Groups
 - Bastion Host architecture
 - Application Load Balancer
 - Target Groups
 - Health Checks
 - Auto Scaling Groups
-- Launch Templates and AMIs
-- Route 53 DNS
+- Launch Templates
+- AMIs
+- Route 53
 - ACM and HTTPS
 - AWS WAF
-- S3
-- IAM
+
+### Monitoring & Observability
+
 - CloudWatch
-- Lambda
-- EventBridge
+- CloudWatch Logs
+- CloudWatch Metrics
 - Prometheus
 - Grafana
 - Node Exporter
-- Infrastructure monitoring
-- Alerting and troubleshooting
+- Alert Rules
+- Alertmanager
+- PagerDuty
+- Infrastructure Monitoring
+- Incident Testing
+- Troubleshooting
 
-### DevOps Concepts
+### Automation
 
-- Linux administration fundamentals
-- Git and GitHub
+- AWS Lambda
+- EventBridge
+- Boto3
+- Serverless Automation
+- Log Processing
+- S3 Archival
+
+### DevOps Fundamentals
+
+- Linux administration
+- Git & GitHub
 - Docker fundamentals
 - Application deployment
-- Infrastructure monitoring
-- Troubleshooting
+- Infrastructure troubleshooting
 - Cloud security fundamentals
+- IAM
 - Automation fundamentals
 
 ---
 
-## 📚 Certifications & Learning
+# 📚 Certifications & Learning
 
 - Microsoft Azure Fundamentals
 - Microsoft Introduction to AI
@@ -348,27 +424,30 @@ A web-based student management application developed using Flask and MySQL.
 
 ---
 
-## 🎯 Currently Working On
+# 🎯 Currently Working On
 
 - Strengthening AWS core services and cloud architecture.
 - Practicing Linux administration and networking.
-- Building AWS infrastructure and monitoring projects.
-- Learning Docker and DevOps fundamentals.
+- Building real-world AWS infrastructure projects.
+- Improving monitoring and observability skills.
+- Learning Docker and DevOps practices.
 - Improving cloud security and IAM knowledge.
 - Practicing infrastructure troubleshooting and automation.
 - Preparing for AWS Cloud Engineer and Cloud Support Engineer roles.
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/ventrapragada-venkata-subbarao">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://venkata-subbarao-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge" />
   </a>
+
   <a href="mailto:venkatasubbarao1305@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -383,7 +462,7 @@ A web-based student management application developed using Flask and MySQL.
 </p>
 
 <h3 align="center">
-  ☁️ Learning. Building. Deploying. Troubleshooting. Growing. 🚀
+  ☁️ Learning. Building. Deploying. Monitoring. Automating. Troubleshooting. Growing. 🚀
 </h3>
 
 <p align="center">
