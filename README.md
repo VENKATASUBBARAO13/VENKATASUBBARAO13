@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://venkata-subbarao-portfolio.vercel.app">
+  <a href="https://venkata-subbarao-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/ventrapragada-venkata-subbarao">
