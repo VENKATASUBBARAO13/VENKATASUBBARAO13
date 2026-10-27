@@ -141,11 +141,10 @@
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 - Git & GitHub
-- Docker
 - VS Code
 - AWS Management Console
 
