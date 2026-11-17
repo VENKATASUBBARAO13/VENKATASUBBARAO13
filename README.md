@@ -369,38 +369,6 @@ Log Archive
 
 ---
 
-# ⚙️ DevOps & CI/CD Projects
-
-## 1. GitHub Actions + Terraform Workflow
-
-Hands-on practice with GitHub Actions workflows and Terraform automation.
-
-**Technologies:** `Terraform` `GitHub Actions` `CI/CD` `GitHub`
-
-🔗 https://github.com/VENKATASUBBARAO13/github-actions-tf-testing
-
----
-
-## 2. GitHub Actions OIDC Authentication
-
-Hands-on practice with GitHub Actions OIDC authentication workflows.
-
-**Technologies:** `GitHub Actions` `OIDC` `AWS IAM` `CI/CD`
-
-🔗 https://github.com/VENKATASUBBARAO13/testing-GitHub-OIDC
-
----
-
-## 3. GitHub Actions Self-Hosted Runner
-
-Hands-on practice with GitHub Actions self-hosted runner configuration.
-
-**Technologies:** `GitHub Actions` `Self-Hosted Runner` `CI/CD`
-
-🔗 https://github.com/VENKATASUBBARAO13/github-action-runner-test
-
----
-
 # 🧰 DevOps & Cloud Hands-On Experience
 
 ### AWS Infrastructure
