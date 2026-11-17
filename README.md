@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkata Subbarao</h1>
 
 <h3 align="center">
-  ☁️ AWS Cloud Engineer | Cloud Computing | DevOps Enthusiast
+  ☁️ AWS Cloud Engineer | Cloud Computing | DevOps | Terraform | CI/CD
 </h3>
 
 <p align="center">
@@ -40,6 +40,8 @@
 - Cloud Security & IAM
 - Automation & Event-Driven Services
 - DevOps Fundamentals
+- Terraform & Infrastructure as Code
+- CI/CD with GitHub Actions
 - Docker
 
 💡 Interested in:
@@ -124,6 +126,19 @@
 - Event-Driven Automation
 - Serverless Automation
 
+### DevOps & Infrastructure as Code
+
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,docker,githubactions,git,github" />
+</p>
+
+- **Infrastructure as Code (IaC):** Terraform
+- **CI/CD:** GitHub Actions, CI/CD Pipelines
+- **GitHub Actions:** OIDC Authentication, Self-Hosted Runners
+- **Containerization:** Docker, Dockerfiles, Images, Containers, Port Mapping
+- **Version Control:** Git & GitHub
+- **Automation:** Infrastructure Provisioning, Deployment Workflows
+
 ### Programming & Development
 
 <p>
@@ -141,11 +156,14 @@
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,terraform,docker,githubactions" />
 </p>
 
 - Git & GitHub
 - VS Code
+- Terraform
+- Docker
+- GitHub Actions
 - AWS Management Console
 
 ---
@@ -351,6 +369,38 @@ Log Archive
 
 ---
 
+# ⚙️ DevOps & CI/CD Projects
+
+## 1. GitHub Actions + Terraform Workflow
+
+Hands-on practice with GitHub Actions workflows and Terraform automation.
+
+**Technologies:** `Terraform` `GitHub Actions` `CI/CD` `GitHub`
+
+🔗 https://github.com/VENKATASUBBARAO13/github-actions-tf-testing
+
+---
+
+## 2. GitHub Actions OIDC Authentication
+
+Hands-on practice with GitHub Actions OIDC authentication workflows.
+
+**Technologies:** `GitHub Actions` `OIDC` `AWS IAM` `CI/CD`
+
+🔗 https://github.com/VENKATASUBBARAO13/testing-GitHub-OIDC
+
+---
+
+## 3. GitHub Actions Self-Hosted Runner
+
+Hands-on practice with GitHub Actions self-hosted runner configuration.
+
+**Technologies:** `GitHub Actions` `Self-Hosted Runner` `CI/CD`
+
+🔗 https://github.com/VENKATASUBBARAO13/github-action-runner-test
+
+---
+
 # 🧰 DevOps & Cloud Hands-On Experience
 
 ### AWS Infrastructure
@@ -402,7 +452,12 @@ Log Archive
 
 - Linux administration
 - Git & GitHub
-- Docker fundamentals
+- Terraform Infrastructure as Code (IaC)
+- GitHub Actions CI/CD Pipelines
+- GitHub Actions OIDC Authentication
+- GitHub Actions Self-Hosted Runners
+- Docker Fundamentals
+- Dockerfiles, Images & Container Management
 - Application deployment
 - Infrastructure troubleshooting
 - Cloud security fundamentals
@@ -429,7 +484,7 @@ Log Archive
 - Practicing Linux administration and networking.
 - Building real-world AWS infrastructure projects.
 - Improving monitoring and observability skills.
-- Learning Docker and DevOps practices.
+- Practicing Terraform, GitHub Actions CI/CD, and Docker.
 - Improving cloud security and IAM knowledge.
 - Practicing infrastructure troubleshooting and automation.
 - Preparing for AWS Cloud Engineer and Cloud Support Engineer roles.
