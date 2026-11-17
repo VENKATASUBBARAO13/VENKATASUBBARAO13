@@ -30,7 +30,7 @@
 
 ☁️ Aspiring AWS Cloud Engineer focused on cloud infrastructure, networking, monitoring, security, automation, and scalable application deployment.
 
-🔭 Built and deployed multiple hands-on AWS projects covering application hosting, three-tier architecture, infrastructure monitoring, alerting, log automation, and cloud networking.
+🔭 Built and deployed multiple hands-on AWS projects covering application hosting, full-stack web application architecture, infrastructure monitoring, alerting, log automation, and cloud networking.
 
 🌱 Currently strengthening my knowledge in:
 
@@ -260,9 +260,9 @@ A hands-on infrastructure monitoring project using Prometheus, Grafana, Node Exp
 
 ---
 
-## 🏗️ 3. AWS Three-Tier Web Application Deployment
+## 🏗️ 3. AWS Full-Stack Web Application Deployment
 
-A hands-on three-tier AWS architecture demonstrating separation of the presentation, application, and database layers.
+A hands-on AWS full-stack web application deployment demonstrating separation of the presentation, application, and database layers.
 
 ### Architecture
 
@@ -295,7 +295,7 @@ A hands-on three-tier AWS architecture demonstrating separation of the presentat
 
 ### Key Work
 
-- Designed a three-tier AWS architecture.
+- Designed an AWS full-stack web application architecture.
 - Created VPC networking and subnet architecture.
 - Configured public and private subnets.
 - Deployed frontend and backend components on EC2.
