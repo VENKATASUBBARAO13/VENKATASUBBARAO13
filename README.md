@@ -54,6 +54,73 @@
 
 ---
 
+## 🧩 Skills & Technologies — Click to Explore
+
+Each icon opens a repository where I used or practiced that technology. The icons link to real repositories, including hands-on CI/CD exercises (not presented as standalone projects).
+
+### ☁️ AWS & Cloud
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS_PROJECT_FLIPKART_APPLICATION_WITH_RDS"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS" /><br /><sub><b>AWS</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS_PROJECT_FLIPKART_APPLICATION_WITH_RDS"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="EC2" /><br /><sub><b>EC2</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS-Three-Tier-Web-Application-Project"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="VPC" /><br /><sub><b>VPC</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS-Three-Tier-Web-Application-Project"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="RDS" /><br /><sub><b>RDS</b></sub></a></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS-EC2-Log-Automation-and-S3-Archival-Project"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="S3" /><br /><sub><b>S3</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/testing-GitHub-OIDC"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="IAM" /><br /><sub><b>IAM</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS-EC2-Log-Automation-and-S3-Archival-Project"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="Lambda" /><br /><sub><b>Lambda</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS_PROJECT_FLIPKART_APPLICATION_WITH_RDS"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="Route 53" /><br /><sub><b>Route 53</b></sub></a></td>
+</tr>
+</table>
+
+### ⚙️ DevOps & Deployment
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/github-actions-tf-testing"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" /><br /><sub><b>Git</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/github-actions-tf-testing"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" /><br /><sub><b>GitHub</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/github-actions-tf-testing"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" alt="GitHub Actions" /><br /><sub><b>GitHub Actions</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/github-actions-tf-testing"><img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" alt="Terraform" /><br /><sub><b>Terraform</b></sub></a></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/github-actions-tf-testing"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" alt="CI/CD" /><br /><sub><b>CI/CD</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/testing-GitHub-OIDC"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" alt="OIDC" /><br /><sub><b>OIDC</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/github-action-runner-test"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" alt="Self-hosted Runner" /><br /><sub><b>Self-hosted Runner</b></sub></a></td>
+</tr>
+</table>
+
+### 📊 Monitoring & Observability
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS-EC2-Monitoring-and-Alerting-Project"><img src="https://skillicons.dev/icons?i=prometheus" width="55" height="55" alt="Prometheus" /><br /><sub><b>Prometheus</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS-EC2-Monitoring-and-Alerting-Project"><img src="https://skillicons.dev/icons?i=grafana" width="55" height="55" alt="Grafana" /><br /><sub><b>Grafana</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS-EC2-Monitoring-and-Alerting-Project"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="CloudWatch" /><br /><sub><b>CloudWatch</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS-EC2-Monitoring-and-Alerting-Project"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="PagerDuty" /><br /><sub><b>PagerDuty</b></sub></a></td>
+</tr>
+</table>
+
+### 💻 Programming & Tools
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS-EC2-Log-Automation-and-S3-Archival-Project"><img src="https://skillicons.dev/icons?i=py" width="55" height="55" alt="Python" /><br /><sub><b>Python</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS-EC2-Monitoring-and-Alerting-Project"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" /><br /><sub><b>Linux</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS-Three-Tier-Web-Application-Project"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" /><br /><sub><b>MySQL</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VENKATASUBBARAO13/AWS-EC2-Monitoring-and-Alerting-Project"><img src="https://skillicons.dev/icons?i=bash" width="55" height="55" alt="Bash" /><br /><sub><b>Bash</b></sub></a></td>
+</tr>
+</table>
+
+### 🐳 Docker
+
+<img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker" />
+
+*Docker is part of my hands-on learning. I’ll link this icon to a Docker repository when I publish one that demonstrates its use.*
+
+---
+
 ## ☁️ AWS & Cloud Skills
 
 ### AWS Services
